@@ -301,7 +301,7 @@
   },
   {
     "Identifier": "MissionObjective_Separation_Retro",
-    "Text": "Waiting for Retrograde section separation"
+    "Text": "Esperando por Separacion de Seccion Retrograda"
   },
   {
     "Identifier": "MissionObjective_CompletePanelConfiguration",
@@ -325,7 +325,7 @@
   },
   {
     "Identifier": "MissionObjective_AltitudeLess_Value1",
-    "Text": "Reach an altitude less than {0} km."
+    "Text": "Alcanzar una altitud inferior a {0} km."
   },
   {
     "Identifier": "MissionObjective_AltitudeGreater_Value1_ft",
